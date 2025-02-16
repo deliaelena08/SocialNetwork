@@ -1,2 +1,2 @@
 # SocialNetwork
-A social platform designed to connect friends, manage relationships, and chat securely
+This JavaFX application, developed as part of my Advanced Programming Methods course, implements a layered architecture and integrates PostgreSQL for data management. Key features include user authentication with hashed passwords, profile viewing (similar to Instagram, but without posts), friend management (add, delete, send friend requests), chat functionality, and notifications. The app provides a basic framework for a social networking platform, showcasing secure user interaction and real-time communication.
